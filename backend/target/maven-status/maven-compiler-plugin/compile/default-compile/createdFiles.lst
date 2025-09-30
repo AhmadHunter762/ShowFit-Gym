@@ -1,0 +1,4 @@
+com\tausmuscles\repository\FoodRepository.class
+com\tausmuscles\controller\FoodController.class
+com\tausmuscles\model\Food.class
+com\tausmuscles\TausMusclesApplication.class
